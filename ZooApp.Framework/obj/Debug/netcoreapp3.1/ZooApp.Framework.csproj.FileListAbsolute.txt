@@ -1,0 +1,9 @@
+F:\pactice\ZooApp\ZooApp.Framework\bin\Debug\netcoreapp3.1\ZooApp.Framework.deps.json
+F:\pactice\ZooApp\ZooApp.Framework\bin\Debug\netcoreapp3.1\ZooApp.Framework.dll
+F:\pactice\ZooApp\ZooApp.Framework\bin\Debug\netcoreapp3.1\ZooApp.Framework.pdb
+F:\pactice\ZooApp\ZooApp.Framework\obj\Debug\netcoreapp3.1\ZooApp.Framework.csprojAssemblyReference.cache
+F:\pactice\ZooApp\ZooApp.Framework\obj\Debug\netcoreapp3.1\ZooApp.Framework.AssemblyInfoInputs.cache
+F:\pactice\ZooApp\ZooApp.Framework\obj\Debug\netcoreapp3.1\ZooApp.Framework.AssemblyInfo.cs
+F:\pactice\ZooApp\ZooApp.Framework\obj\Debug\netcoreapp3.1\ZooApp.Framework.csproj.CoreCompileInputs.cache
+F:\pactice\ZooApp\ZooApp.Framework\obj\Debug\netcoreapp3.1\ZooApp.Framework.dll
+F:\pactice\ZooApp\ZooApp.Framework\obj\Debug\netcoreapp3.1\ZooApp.Framework.pdb
